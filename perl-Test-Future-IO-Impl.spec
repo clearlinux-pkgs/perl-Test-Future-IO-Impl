@@ -5,7 +5,7 @@
 #
 Name     : perl-Test-Future-IO-Impl
 Version  : 0.14
-Release  : 1
+Release  : 2
 URL      : https://cpan.metacpan.org/authors/id/P/PE/PEVANS/Test-Future-IO-Impl-0.14.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/P/PE/PEVANS/Test-Future-IO-Impl-0.14.tar.gz
 Summary  : 'acceptance tests for C<Future::IO> implementations'
